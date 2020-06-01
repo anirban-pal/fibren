@@ -1,0 +1,281 @@
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+./main 30.0 0.0 0.0 0.5 0.0 gridfile.dat
+
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.015080 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004685 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.008119 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.014949 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.021980 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.030761 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040722 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.051406 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.062477 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.075854 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.089322 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.104528 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.128770 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.151965 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000017 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000006 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000035 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000253 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002500 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.024313 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.241970 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.426856 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 24.093558 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 240.324678 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.014282 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.005899 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.007899 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.014558 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.021457 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.030429 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040042 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.050113 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.061717 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.075044 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.088198 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.104605 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.122110 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.150907 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000016 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000007 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000036 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000260 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002566 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.024278 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.241838 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.408643 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 24.042159 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 239.985913 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.014569 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004591 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.008271 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.014976 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.022156 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.031131 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040973 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.051208 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.063427 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.077185 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.089852 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.106084 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.125087 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.154256 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000015 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000006 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000034 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000247 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002412 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.023574 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.235853 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.344428 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 23.427534 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 235.461398 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.014087 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004578 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.008090 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.015298 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.021983 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.031086 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040815 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.051210 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.062804 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.077358 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.090202 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.106262 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.125206 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.154192 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000017 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000007 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000035 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000257 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002538 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.024694 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.245883 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.444927 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 24.388287 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 243.681898 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.011581 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004598 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.008208 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.014875 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.021961 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.031197 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040772 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.051299 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.062959 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.076677 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.090294 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.106747 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.125031 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.154296 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000016 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000007 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000033 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000245 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002409 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.023336 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.233689 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.307393 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 23.108654 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 230.611973 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.013310 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004607 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.008041 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.014831 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.022002 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.031075 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040724 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.051392 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.062827 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.077189 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.090688 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.106206 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.124804 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.154157 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000019 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000007 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000033 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000244 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002406 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.023325 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.232009 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.310110 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 23.084039 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 230.237491 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.014064 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004494 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.007881 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.014614 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.021556 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.030777 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040040 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.050258 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.062129 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.075241 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.088457 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.104300 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.122809 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.152478 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000015 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000006 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000034 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000247 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002420 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.023721 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.236679 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.341810 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 23.379632 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 233.645023 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.014418 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004492 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.007911 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.014663 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.021636 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.030571 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040399 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.050364 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.061897 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.075767 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.088610 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.105774 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.122879 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.151852 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000019 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000006 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000033 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000244 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002388 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.023330 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.231746 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.312942 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 23.177436 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 230.907954 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.014448 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004568 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.008021 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.014843 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.021842 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.031016 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.040771 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.051113 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.062388 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.075862 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.089110 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.105392 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.124059 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.152822 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000020 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000007 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000033 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000244 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002401 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.023394 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.232470 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.308799 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 23.089778 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 230.465349 sec
+q0: -0.433013 0.250000 0.000000 
+p: 1.000000 0.000000 0.000000 
+q: 0.866025 0.500000 0.000000 
+Energy_adaptive: 131.756877071487082276 rel_error: 1.00e-02 Time taken = 0.014953 sec
+Energy_adaptive: 131.756303770716641566 rel_error: 1.00e-03 Time taken = 0.004687 sec
+Energy_adaptive: 131.755317756363069748 rel_error: 1.00e-04 Time taken = 0.008205 sec
+Energy_adaptive: 131.755615265423898563 rel_error: 1.00e-05 Time taken = 0.015262 sec
+Energy_adaptive: 131.755596112073050108 rel_error: 1.00e-06 Time taken = 0.022458 sec
+Energy_adaptive: 131.755593888396703051 rel_error: 1.00e-07 Time taken = 0.031922 sec
+Energy_adaptive: 131.755593976813344170 rel_error: 1.00e-08 Time taken = 0.041905 sec
+Energy_adaptive: 131.755593974198205842 rel_error: 1.00e-09 Time taken = 0.053690 sec
+Energy_adaptive: 131.755593974191157258 rel_error: 1.00e-10 Time taken = 0.064385 sec
+Energy_adaptive: 131.755593974146563596 rel_error: 1.00e-11 Time taken = 0.078992 sec
+Energy_adaptive: 131.755593974133660140 rel_error: 1.00e-12 Time taken = 0.091893 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-13 Time taken = 0.108427 sec
+Energy_adaptive: 131.755593974134313839 rel_error: 1.00e-14 Time taken = 0.127431 sec
+Energy_adaptive: 131.755593974134399105 rel_error: 1.00e-15 Time taken = 0.157931 sec
+Energy_discrete: 29192399.827074814587831497 n: 1 Time taken = 0.000020 sec
+Energy_discrete: 52060.469132330588763580 n: 3 Time taken = 0.000007 sec
+Energy_discrete: 1083.781638212576353908 n: 10 Time taken = 0.000033 sec
+Energy_discrete: 262.681767936023788934 n: 31 Time taken = 0.000243 sec
+Energy_discrete: 163.151711675054087891 n: 100 Time taken = 0.002393 sec
+Energy_discrete: 140.969203218254904186 n: 316 Time taken = 0.023330 sec
+Energy_discrete: 134.599389589745896956 n: 1000 Time taken = 0.232479 sec
+Energy_discrete: 132.648332793746646985 n: 3162 Time taken = 2.310031 sec
+Energy_discrete: 132.037219450786096786 n: 10000 Time taken = 23.110522 sec
+Energy_discrete: 131.844588242959304125 n: 31622 Time taken = 230.533092 sec
